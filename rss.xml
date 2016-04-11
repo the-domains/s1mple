@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A s1mple site, for a s1mple man.]]></title>
+        <description><![CDATA[A s1mple site, for a s1mple man.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 13:00:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53cc66e2-25cc-42ac-b72d-47215040421e.jpg">]]></description>
+            <link>undefinedin-a-galaxy-not-far-away-a-prince-once-said-all-men-have/index.html</link>
+            <guid isPermaLink="false">aeeca574-bd32-47b2-960d-d8dee71635e3</guid>
+            <pubDate>Mon, 11 Apr 2016 12:59:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
