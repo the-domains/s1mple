@@ -1,7 +1,8 @@
 name: s1mple
 favicon: null
-layout_spectrum: 0.9570284336805344
-typography_spectrum: 0.1804526043124497
+layout_spectrum: 0.94201
+typography_spectrum: 1
+title: 'A s1mple site, for a s1mple man.'
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#08121e'
+    - '#194373'
+    - '#375c77'
+    - '#7b92a0'
+    - '#abc1ce'
   brandStrength: 0.7847210997715592
   lightness: 0.4384756388608366
   saturation: 0.6731945581268519
